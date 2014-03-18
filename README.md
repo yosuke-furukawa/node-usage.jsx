@@ -1,4 +1,4 @@
-output cpu/memory usage for JSX
+output cpu/memory usage for JSX [![Build Status](https://travis-ci.org/yosuke-furukawa/node-usage.jsx.png?branch=master)](https://travis-ci.org/yosuke-furukawa/node-usage.jsx)
 ================================
 
 
