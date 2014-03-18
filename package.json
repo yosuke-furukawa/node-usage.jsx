@@ -1,0 +1,27 @@
+{
+  "name": "node-usage.jsx",
+  "version": "0.1.0",
+  "description": "node-usage can measure cpu, memory, etc. For JSX!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsx --test t/*",
+    "postinstall": "cd .. && npm install usage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosuke-furukawa/node-usage.jsx"
+  },
+  "keywords": [
+    "usage",
+    "jsx"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yosuke-furukawa/node-usage.jsx/issues"
+  },
+  "devDependencies": {
+    "usage": "~0.3.9",
+    "nodejs.jsx": "~0.1.4"
+  }
+}
